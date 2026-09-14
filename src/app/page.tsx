@@ -179,16 +179,6 @@ const skills = [
     category: 'Frameworks',
   },
   {
-    name: 'React Native',
-    icon: 'https://cdn.simpleicons.org/react',
-    category: 'Frameworks',
-  },
-  {
-    name: 'Next.js',
-    icon: 'https://cdn.simpleicons.org/nextdotjs',
-    category: 'Frameworks',
-  },
-  {
     name: 'Laravel',
     icon: './laravel-svgrepo-com.svg',
     category: 'Frameworks',
@@ -214,22 +204,12 @@ const skills = [
     icon: './cap-svgrepo-com.svg',
     category: 'Testing',
   },
-  {
-    name: 'Pytest',
-    icon: 'https://cdn.simpleicons.org/pytest',
-    category: 'Testing',
-  },
 
 
   // ----------------------------------------------------------
   // APIs
   // ----------------------------------------------------------
-
-  {
-    name: 'REST',
-    icon: 'https://cdn.simpleicons.org/openapiinitiative',
-    category: 'APIs',
-  },
+  
   {
     name: 'OpenAPI',
     icon: 'https://cdn.simpleicons.org/openapiinitiative',
@@ -274,11 +254,6 @@ const skills = [
   {
     name: 'Elasticsearch',
     icon: 'https://cdn.simpleicons.org/elasticsearch',
-    category: 'Databases',
-  },
-  {
-    name: 'Oracle Database',
-    icon: 'https://cdn.simpleicons.org/oracle',
     category: 'Databases',
   },
 
@@ -335,35 +310,9 @@ const skills = [
   },
   {
     name: 'Codex',
-    icon: 'https://cdn.simpleicons.org/openai',
+    icon: './codex-color.svg',
     category: 'AI',
   },
-  {
-    name: 'RAG',
-    icon: 'https://cdn.simpleicons.org/huggingface',
-    category: 'AI',
-  },
-  {
-    name: 'Transformers',
-    icon: 'https://cdn.simpleicons.org/huggingface',
-    category: 'AI',
-  },
-  {
-    name: 'Machine Learning',
-    icon: 'https://cdn.simpleicons.org/scikitlearn',
-    category: 'AI',
-  },
-  {
-    name: 'Deep Learning',
-    icon: 'https://cdn.simpleicons.org/pytorch',
-    category: 'AI',
-  },
-  {
-    name: 'NLP',
-    icon: 'https://cdn.simpleicons.org/huggingface',
-    category: 'AI',
-  },
-
 
   // ----------------------------------------------------------
   // TOOLS
@@ -402,11 +351,6 @@ const skills = [
   {
     name: 'Agile',
     icon: './agile-development-svgrepo-com.svg',
-    category: 'Tools',
-  },
-  {
-    name: 'Kafka',
-    icon: 'https://cdn.simpleicons.org/apachekafka',
     category: 'Tools',
   },
   {
